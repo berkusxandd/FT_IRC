@@ -1,2 +1,3 @@
 # P2P message software works on shell. Uses IRC protocol.
-![image](https://github.com/user-attachments/assets/3c94deb3-ef6b-4471-9b44-ee95a6d74f98)
+![image](https://github.com/user-attachments/assets/f1a178d1-7de8-4eb5-91fb-27f5d71970bd)
+
